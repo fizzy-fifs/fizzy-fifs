@@ -1,13 +1,14 @@
 <H1 style="text-align: center;"> Hi there 👋 I'm Fifolu </H1>
 
+<h3 style="text-align: center;"> Full Stack Engineer</h3>
 
-<h4 style="text-align: center;">
+
 - 🔭 I’m currently working on a [holiday planner](https://github.com/fizzy-fifs/Holiday-Planner-Server). A holiday planner built with the MEAN stack
 - 🌱 I’m currently learning the basics of C#
 - Recent [Makers Academy](https://makers.tech) graduate, June 2021
 - 📫 Email me at fkinyemi@gmail.com
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/fifolu-akinyemi-ab377752/).
-</h4>
+
 
 ## Projects: <br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fizzy-fifs&repo=bazaar-client&show_icons=true&theme=tokyonight)](https://github.com/fizzy-fifs/bazaar-client) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fizzy-fifs&repo=bazaar-server&show_icons=true&theme=tokyonight)](https://github.com/fizzy-fifs/bazaar-server) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fizzy-fifs&repo=Acebook&show_icons=true&theme=tokyonight)](https://github.com/fizzy-fifs/Acebook) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fizzy-fifs&repo=Bank-Tech-Test&show_icons=true&theme=tokyonight)](https://github.com/fizzy-fifs/Bank-Tech-Test) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fizzy-fifs&repo=NoteApp&show_icons=true&theme=tokyonight)](https://github.com/fizzy-fifs/NoteApp)
