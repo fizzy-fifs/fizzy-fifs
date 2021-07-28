@@ -1,6 +1,6 @@
 <H1 align="center"> Hi there 👋 I'm Fifolu </H1>
 
-<h3 align="center"> Full Stack Engineer</h3>
+<h3 align="center"> Full Stack Engineer and Makers Grad., June 2021</h3>
 
 
 - 🔭 I’m currently working on [Holiday Planner](https://github.com/fizzy-fifs/Holiday-Planner-Server)
