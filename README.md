@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Projects: 
+## Projects: <br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fizzy-fifs&repo=bazaar-client&show_icons=true&theme=tokyonight)](https://github.com/fizzy-fifs/bazaar-client) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fizzy-fifs&repo=bazaar-server&show_icons=true&theme=tokyonight)](https://github.com/fizzy-fifs/bazaar-server)
 
-##Languages and Tools:<br><br>
+## Languages and Tools:<br><br>
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="50" height="50" alt="JavaScript" />
 <img src="https://cdn.svgporn.com/logos/react.svg" width="50" height="50" alt="React.js" />
 <img src="https://cdn.svgporn.com/logos/nodejs.svg" width="50" height="50" alt="Node.js" />
