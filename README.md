@@ -18,13 +18,16 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fizzy-fifs&repo=bazaar-client&show_icons=true&theme=tokyonight)](https://github.com/fizzy-fifs/bazaar-client) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fizzy-fifs&repo=bazaar-server&show_icons=true&theme=tokyonight)](https://github.com/fizzy-fifs/bazaar-server)
 
 Languages and Tools:<br><br>
-<img src="https://cdn.svgporn.com/logos/ruby.svg" alt="Ruby" width="50" height="50" />
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="50" height="50" alt="JavaScript" />
+<img src="https://cdn.svgporn.com/logos/jest.svg" width="50" height="50" alt="Jest" />
+<img src="https://cdn.svgporn.com/logos/jasmine.svg" width="50" height="50" alt="Jasmine" />
 <img src="https://cdn.svgporn.com/logos/react.svg" width="50" height="50" alt="React.js" />
 <img src="https://cdn.svgporn.com/logos/nodejs.svg" width="50" height="50" alt="Node.js" />
 <img src="https://cdn.svgporn.com/logos/express.svg" width="50" height="50" alt="Express.js" />
-<img src="https://cdn.svgporn.com/logos/sinatra.svg" width="50" height="50" alt="Sinatra" />
+<img src="https://cdn.svgporn.com/logos/ruby.svg" width="50" height="50" alt="Ruby" />
 <img src="https://cdn.svgporn.com/logos/rails.svg" width="50" height="50" alt="Rails" />
+<img src="https://cdn.svgporn.com/logos/sinatra.svg" width="50" height="50" alt="Sinatra" />
+<img src="https://cdn.svgporn.com/logos/sinatra.svg" width="50" height="50" alt="Capybara" />
 <img src="https://cdn.svgporn.com/logos/html-5.svg" width="50" height="50" alt="HTML" />
 <img src="https://cdn.svgporn.com/logos/css-3.svg" width="50" height="50" alt="CSS" />
 <img src="https://cdn.svgporn.com/logos/pwa.svg" width="50" height="50" alt="PWA" />
