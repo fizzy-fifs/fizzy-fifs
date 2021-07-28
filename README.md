@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning the basics of C#
 - Recent [Makers Academy](https://makers.tech) graduate, June 2021
 - 📫 Email me at fkinyemi@gmail.com
-- ⚡ Connect with me on [LinkedIn](https://www.linkedin.com/in/fifolu-akinyemi-ab377752/
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/fifolu-akinyemi-ab377752/. 
 
 
 ## Projects: <br><br>
