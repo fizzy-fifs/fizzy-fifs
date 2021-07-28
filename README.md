@@ -1,12 +1,12 @@
-<H1 style="text-align: center;"> Hi there 👋 I'm Fifolu </H1>
+<H1 align="center"> Hi there 👋 I'm Fifolu </H1>
 
-<h3 style="text-align: center;"> Full Stack Engineer</h3>
+<h3 align="center"> Full Stack Engineer</h3>
 
 
-- 🔭 I’m currently working on a [holiday planner](https://github.com/fizzy-fifs/Holiday-Planner-Server). A holiday planner built with the MEAN stack
-- 🌱 I’m currently learning the basics of C#
+- 🔭 I’m currently working on [Holiday Planner](https://github.com/fizzy-fifs/Holiday-Planner-Server)
 - 🔧 I've just worked on  [Bazaar](https://github.com/fizzy-fifs/bazaar-client). A virtual marketplace built as a PWA using the MERN stack
-- 👨🏾‍🎓🧑🏾‍🎓Recent [Makers Academy](https://makers.tech) graduate, June 2021
+- 🌱 I’m currently learning the basics of C#
+- 🎓 Recent [Makers Academy](https://makers.tech) graduate, June 2021
 - 📫 Email me at fkinyemi@gmail.com
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/fifolu-akinyemi-ab377752/).
 
