@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 Languages and Tools:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fizzy-fifs&repo=bazaar-client)](https://github.com/fizzy-fifs/bazaar-client)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fizzy-fifs&repo=bazaar-server)](https://github.com/fizzy-fifs/bazaar-server)
 
