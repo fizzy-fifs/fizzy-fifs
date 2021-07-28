@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 Languages and Tools:<br><br>
-<img src="https://cdn.svgporn.com/logos/ruby.svg" width="50" height="50" alt="Ruby" />
-<img src="https://cdn.svgporn.com/logos/javascript.svg" width="50" height="50" alt="JavaScript />
+<img src="https://cdn.svgporn.com/logos/ruby.svg" alt="Ruby" width="50" height="50" />
+<img src="https://cdn.svgporn.com/logos/javascript.svg" width="50" height="50" alt="JavaScript" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fizzy-fifs&repo=bazaar-client&show_icons=true&theme=tokyonight)](https://github.com/fizzy-fifs/bazaar-client) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fizzy-fifs&repo=bazaar-server&show_icons=true&theme=tokyonight)](https://github.com/fizzy-fifs/bazaar-server)
 
