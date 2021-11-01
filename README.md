@@ -3,6 +3,7 @@
 <h3 align="center"> Full Stack Engineer</h3>
 
 
+- 🔭 Check out my [CV](https://docs.google.com/document/d/1XKxh4i6kSPCxaAI-ucrX8tynkpkx1Zbn/edit?usp=sharing&ouid=110710628566394359574&rtpof=true&sd=true)
 - 🔭 I’m currently working on [Holiday Planner](https://github.com/fizzy-fifs/Holiday-Planner-Server)
 - 🔧 I've just worked on  [Bazaar](https://github.com/fizzy-fifs/bazaar-client). A virtual marketplace built as a PWA using the MERN stack
 - 🌱 I’m currently learning the basics of C#
