@@ -5,7 +5,7 @@
 
 - 🔭 Check out my [CV](https://docs.google.com/document/d/1XKxh4i6kSPCxaAI-ucrX8tynkpkx1Zbn/edit?usp=sharing&ouid=110710628566394359574&rtpof=true&sd=true)
 - 🔭 I’m currently working on [Holiday Planner](https://github.com/fizzy-fifs/Holiday-Planner-Server)
-- 🎓 Recent [Makers Academy](https://makers.tech) graduate, June 2021
+- 🎓 [Makers Academy](https://makers.tech) graduate, June 2021
 - 📫 Email me at fkinyemi@gmail.com
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/fifolu-akinyemi-ab377752/).
 
