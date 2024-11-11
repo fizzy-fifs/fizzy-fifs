@@ -23,4 +23,3 @@ Test Driven Development, Pair Programming, AGILE, Version Control, Relational an
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fizzy-fifs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fizzy-fifs&langs_count=10&layout=compact&theme=tokyonight) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fizzy-fifs&theme=dark)](https://git.io/streak-stats)
-
