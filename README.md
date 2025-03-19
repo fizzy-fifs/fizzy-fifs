@@ -24,4 +24,4 @@ Test Driven Development, Pair Programming, AGILE, Version Control, Relational an
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fizzy-fifs&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fizzy-fifs)](https://git.io/streak-stats)
