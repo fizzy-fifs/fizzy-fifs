@@ -20,7 +20,11 @@
 Test Driven Development, Pair Programming, AGILE, Version Control, Relational and Non-relational Database, RESTful APIs, Continous Integration & Continous Deployment
 
 ## Github Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fizzy-fifs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fizzy-fifs&langs_count=10&layout=compact&theme=tokyonight) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fizzy-fifs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fizzy-fifs&langs_count=10&layout=compact&theme=tokyonight) 
 
 <br/>
 
