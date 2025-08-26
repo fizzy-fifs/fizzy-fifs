@@ -4,7 +4,7 @@
 
 
 - 🔭 Check out my [CV](https://drive.google.com/file/d/1zOVl0fvkK8Z9olfl5Y-B_48dAG0OeE2t/view?usp=share_link)
-- 🔭 I’m currently working on [Getaway](https://getawayai.app/)
+- 🔭 I’m currently building [Getaway AI](https://getawayai.app/)
 - 🎓 [Makers Academy](https://makers.tech) graduate, June 2021
 - 📫 Email me at fkinyemi@gmail.com
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/fifolu-akinyemi-ab377752/).
